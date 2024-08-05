@@ -1,0 +1,16 @@
+{
+  "name": "assist-toolkit",
+  "version": "0.0.0",
+  "description": "",
+  "packageManager": "pnpm@9.6.0",
+  "scripts": {},
+  "keywords": [
+    "toolkit",
+    "node",
+    "library",
+    "package",
+    "tool"
+  ],
+  "author": "Sung Ye In <syi778800@gmail.com>",
+  "license": "MIT"
+}
